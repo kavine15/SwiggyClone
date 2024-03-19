@@ -1,0 +1,122 @@
+[
+    {
+        "name": "McDonald's",
+        "price": 150,
+        "description": "MCDonald combo cocacola",
+        "ratings": 3.5,
+        "images": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/f62564e14944753903849c4ef673af4d",
+        "category": "Burger",
+        "hotelname": "Avanashi Road",
+        "deliverytime": "25-30 min",
+        "numOfReviews": 55,
+        "reviews": []
+    },
+    {
+        "name": "Agarwal Sweet Palace",
+        "price": 130,
+        "description": "Sweets with minimum prize",
+        "ratings": 4.5,
+        "images": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/fpvlzez7z3y0j08ffhn9",
+        "category": "South Indian",
+        "hotelname": "Peelamedu",
+        "deliverytime": "25-30 min",
+        "numOfReviews": 57,
+        "reviews": []
+    },
+    {
+        "name": "HMR - Hotel Muthu Rowther",
+        "price": 150,
+        "description": "Chicken briyani",
+        "ratings": 4.5,
+        "images": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/ba4f3f86c61751f4e7cacc5e4efaf0fd",
+        "category": "Briyani",
+        "hotelname": "Kuniyamuthur",
+        "deliverytime": "25-30 min",
+        "numOfReviews": 52,
+        "reviews": []
+    },
+    {
+        "name": "AL Maas Biriyani House",
+        "price": 150,
+        "description": "Chicken briyani",
+        "ratings": 2.5,
+        "images": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/0057a26e51dc6849a003336b3c62c6c2",
+        "category": "Briyani",
+        "hotelname": "Kalapathi",
+        "deliverytime": "25-30 min",
+        "numOfReviews": 45,
+        "reviews": []
+    },
+    {
+        "name": "Kovai Durbar",
+        "price": 1350,
+        "description": "Chicken briyani kovai durbar",
+        "ratings": 4.5,
+        "images": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/dtp8grdbsy8y3fszxk8p",
+        "category": "Briyani",
+        "hotelname": "Race Course",
+        "deliverytime": "25-30 min",
+        "numOfReviews": 5,
+        "reviews": []
+    },
+    {
+        "name": "Pizza Kadai",
+        "price": 550,
+        "description": "A -inch pizza crust filled with mozarella cheese and topped with tomato chunks. 8",
+        "ratings": 4.5,
+        "images": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/b39e4312ae2e9f65c3b58faaed83f488",
+        "category": "Pizzas",
+        "hotelname": "Lashimi Mills",
+        "deliverytime": "35-30 min",
+        "numOfReviews": 52,
+        "reviews": []
+    },
+    {
+        "name": "Pizza paradize",
+        "price": 1250,
+        "description": "A -inch pizza crust filled with mozarella cheese and topped with tomato chunks. 8",
+        "ratings": 4.5,
+        "images": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/f9b257aaaaf42ed00190a75615a22ad9",
+        "category": "Pizzas",
+        "hotelname": "Singanallur",
+        "deliverytime": "25-30 min",
+        "numOfReviews": 51,
+        "reviews": []
+    },
+    {
+        "name": "Hidden Fork Pizzeria",
+        "price": 1250,
+        "description": "A -inch pizza crust filled with mozarella cheese and topped with tomato chunks. 8",
+        "ratings": 4.5,
+        "images": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/f1ef9d94d17d51e6e91ac9a62951b795",
+        "category": "Pizzas",
+        "hotelname": "Singanallur",
+        "deliverytime":"35-30 min",
+        "numOfReviews": 57,
+        "reviews": []
+    },
+    {
+        "name": "Pizza Hut",
+        "price": 150,
+        "description": "Famous Pizzas hat Shop",
+        "ratings": 4.5,
+        "images": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/2b4f62d606d1b2bfba9ba9e5386fabb7",
+        "category": "Pizzas",
+        "hotelname": "Lashimi Mills",
+        "deliverytime": "25-33 min",
+        "numOfReviews": 5,
+        "reviews": []
+    },
+    {
+        "name": "Hmr - Grand Kitchen",
+        "price": 1150,
+        "description": "Hmr Sweet Briyani",
+        "ratings": 4.5,
+        "images": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/56e294b4be325a0543296bcee72d32d7",
+        "category": "Briyani",
+        "hotelname": "Gandipuram",
+        "deliverytime": "25-33 min",
+        "numOfReviews": 52,
+        "reviews": []
+    }
+]
