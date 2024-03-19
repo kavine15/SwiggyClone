@@ -3,7 +3,6 @@ const express = require("express");
 const app = express();
 const cors = require("cors");
 const connection = require("./db");
-const {router} = require("./controllers/authController")
 
 
 connection();
@@ -18,7 +17,6 @@ const products = require('./Routes/product');
 
 
 app.use('/api',products);
-app.use('/auth',router);
 
 
 
